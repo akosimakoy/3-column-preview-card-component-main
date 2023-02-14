@@ -33,7 +33,7 @@ main {
     max-width: 63.89em;
     border-radius: 1rem;
     overflow: hidden;
-    min-height: 34.72em;
+    min-height: 33.72em;
 }
 section {
     padding: 3rem 5rem 3rem 3rem;
@@ -51,12 +51,13 @@ section {
     background-color: var(--very-dark-cyan);
 }
 img {
-    width: 7em;
+    width: 4em;
 }
 h2 {
     font-family: 'Big Shoulders Display', cursive;
     font-size: 2.5rem;
     font-weight: 700;
+    text-transform: uppercase;
 }
 a {
     margin-top: auto;
