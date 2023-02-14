@@ -33,13 +33,17 @@ main {
     max-width: 63.89em;
     border-radius: 1rem;
     overflow: hidden;
-    min-height: 31.72em;
+    min-height: 33.72em;
 }
 section {
-    padding: 3rem;
+    padding: 3.5em 3em;
     display: flex;
     flex-direction: column;
     gap: 2rem;
+}
+p {
+    letter-spacing: 0.05rem;
+    line-height: 1.5;
 }
 .sedan {
     background-color: var(--bright-orange);
